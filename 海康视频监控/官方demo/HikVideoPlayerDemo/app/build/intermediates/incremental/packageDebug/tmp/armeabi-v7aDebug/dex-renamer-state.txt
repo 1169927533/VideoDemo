@@ -1,0 +1,4 @@
+#Tue Aug 13 09:33:37 CST 2019
+base.0=/Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

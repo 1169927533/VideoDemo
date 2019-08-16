@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:design:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/856f5cad251059b6e8a81fc3486ac500/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/d148ef3936ba29eeeaf92d6e192b2c84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/f0e601a992fe178b262b2e9c9563d4e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/5c28f0cde2f8e7c87ad350c1fd70a5b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/5553c6ade6e6282b41bfb7c6ca177c22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/f67da7e8e48af82ed843fd445ceaef5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/9bc03a27c8f9cb72683b3db11f056ad4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/2db7c58e490204ef0d50bce8d569ab43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/1330742f60faf9d252ba2c5d0e613bc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/f040a1dff5a6d89ac7915b1286be24b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/914933f73ebd7a5159131cd53185de47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/4bde26e79ae324ec665568d069be5658/AndroidManifest.xml:17:1-22:12
+MERGED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:2:1-29:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/08b4e08aed33f47e429b747bf7782590/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:8:22-68
+application
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:10:5-42:19
+MERGED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:9:5-27:19
+MERGED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:9:5-27:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/08b4e08aed33f47e429b747bf7782590/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/08b4e08aed33f47e429b747bf7782590/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:14:9-36
+	android:theme
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:11:9-39
+activity#com.hikvision.open.app.MainActivity
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:16:9-26:20
+	android:windowSoftInputMode
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:18:13-74
+	android:name
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.hikvision.open.app.PreviewActivity
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:27:9-31:58
+	android:label
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:30:13-59
+	android:windowSoftInputMode
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:31:13-55
+	android:configChanges
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:28:13-44
+activity#com.hikvision.open.app.PlaybackActivity
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:32:9-36:58
+	android:label
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:35:13-60
+	android:windowSoftInputMode
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:36:13-55
+	android:configChanges
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:33:13-45
+activity#com.hikvision.open.app.VoiceTalkActivity
+ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:37:9-41:58
+	android:label
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:40:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:41:13-55
+	android:configChanges
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml:38:13-46
+uses-sdk
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/856f5cad251059b6e8a81fc3486ac500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/856f5cad251059b6e8a81fc3486ac500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/d148ef3936ba29eeeaf92d6e192b2c84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/d148ef3936ba29eeeaf92d6e192b2c84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/f0e601a992fe178b262b2e9c9563d4e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/f0e601a992fe178b262b2e9c9563d4e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/5c28f0cde2f8e7c87ad350c1fd70a5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/5c28f0cde2f8e7c87ad350c1fd70a5b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/5553c6ade6e6282b41bfb7c6ca177c22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/5553c6ade6e6282b41bfb7c6ca177c22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/f67da7e8e48af82ed843fd445ceaef5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/f67da7e8e48af82ed843fd445ceaef5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/9bc03a27c8f9cb72683b3db11f056ad4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/9bc03a27c8f9cb72683b3db11f056ad4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/2db7c58e490204ef0d50bce8d569ab43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/2db7c58e490204ef0d50bce8d569ab43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/1330742f60faf9d252ba2c5d0e613bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/1330742f60faf9d252ba2c5d0e613bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/f040a1dff5a6d89ac7915b1286be24b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/f040a1dff5a6d89ac7915b1286be24b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/914933f73ebd7a5159131cd53185de47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/914933f73ebd7a5159131cd53185de47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/4bde26e79ae324ec665568d069be5658/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/4bde26e79ae324ec665568d069be5658/AndroidManifest.xml:20:5-44
+MERGED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:7:5-44
+MERGED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:7:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/08b4e08aed33f47e429b747bf7782590/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/08b4e08aed33f47e429b747bf7782590/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/space/Desktop/海康摄像头demo/HikVideoPlayerDemo/app/src/main/AndroidManifest.xml
+activity#com.blankj.utilcode.util.PermissionUtils$PermissionActivity
+ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:10:9-15:75
+	android:multiprocess
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:13:13-40
+	android:windowSoftInputMode
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:15:13-72
+	android:configChanges
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:12:13-74
+	android:theme
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:14:13-55
+	android:name
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:11:13-87
+provider#com.blankj.utilcode.util.Utils$FileProvider4UtilCode
+ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:17:9-26:20
+	android:grantUriPermissions
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:19:13-69
+	android:multiprocess
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:22:13-40
+	android:exported
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:18:13-80
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:23:13-25:68
+	android:resource
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:25:17-65
+	android:name
+		ADDED from [com.blankj:utilcode:1.20.3] /Users/space/.gradle/caches/transforms-2/files-2.1/f77160a5b37a7283b7624c5f225c5fbe/AndroidManifest.xml:24:17-67
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/08b4e08aed33f47e429b747bf7782590/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/08b4e08aed33f47e429b747bf7782590/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/space/.gradle/caches/transforms-2/files-2.1/08b4e08aed33f47e429b747bf7782590/AndroidManifest.xml:26:13-58
